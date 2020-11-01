@@ -5,5 +5,6 @@ public class Batman {
         System.out.println("I will catch joker 2 ");
         System.out.println("I will catch maybe joker 3 ");
         System.out.println("I will catch maybe joker 2 ");
+        //motorcycle
     }
 }
